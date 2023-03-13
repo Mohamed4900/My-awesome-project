@@ -1,2 +1,2 @@
 # My-awesome-project
-My awesome project (WILD)
+This awesone project is created to experiment git notions like clone, push and pull
